@@ -1,16 +1,14 @@
-### Hi there 👋
+## John Huang
 
-<!--
-**chunyenHuang/chunyenHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+<a href="https://www.linkedin.com/in/johnhuangguo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-John%20Huang-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:little78926@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-little78926@gmail.com-red?style=flat-square&logo=gmail"></a>
+</p>
 
-Here are some ideas to get you started:
+- 🌐 &nbsp; JavaScript
+- 🛢 &nbsp; DynamoDB
+- 🔧 &nbsp; AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=chunyenHuang&show_icons=true)](https://github.com/chunyenHuang)
